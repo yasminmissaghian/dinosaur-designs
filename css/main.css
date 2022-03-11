@@ -1,0 +1,25 @@
+html {
+  box-sizing: border-box;
+  background-color: #f2f1ed
+  font-family: Georgia, serif;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+img {
+  width: 100%;
+}
+
+h1, h2 {
+  color: #5d8432;
+  text-transform: uppercase;
+}
+
+figcaption {
+  font-size: .8rem;
+  font-style: italic;
+  text-align: center;
+}
